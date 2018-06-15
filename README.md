@@ -4,7 +4,7 @@ For now really small but it as to start somewhere ;)
 
 I addition I'd like to precise that I really appreciate comments, advises, code optimisation. If you feel like I haven't understood something or anything PLEASE let me know.
 
-- unofficial coss.io FSA balance calculator .AKA Uno-cossBalCalc
+- unofficial coss.io Fee Split Allocation balance calculator .AKA cossFsaBalCalc
 
   made using google services: -JS appScript and -SpreadSheets
   
