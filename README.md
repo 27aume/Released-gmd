@@ -10,7 +10,9 @@ If you feel like I haven't understood something or anything PLEASE let me know.
   - Made using: google services -GAS -SpreadSheets. 
   - Other things practiced: - JS - API - Multi layer arrays - Loops. 
   - Release date: Sunday 29 April 2018
-  - Link: https://drive.google.com/open?id=1UEI3nzsZU7li8XgDuOW_yxi-YwNwxsiCl_d6CMDX_Q0
+  - Link(v1): https://drive.google.com/open?id=1UEI3nzsZU7li8XgDuOW_yxi-YwNwxsiCl_d6CMDX_Q0
+  - Link(v2.3): https://docs.google.com/spreadsheets/d/1VJu_JCGe4KLvwjok2YJpgwMM1DsMIJsj9rXLePKsQO8/
+
 - Google Apps Script(GAS) Coss.io api-wrapper. 
   - Allow to make calls to the coss.io like accountBalance(), accountDetails(), placeOrder() \
     listOrders().
