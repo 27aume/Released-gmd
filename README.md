@@ -23,6 +23,7 @@ If you feel like I haven't understood something or anything PLEASE let me know.
 - Axie infinity Google sheet tools box
   - Collection of libraries and spreadsheet projects for the axie infinity game.
   - Made using: google services -GAS, Axie infinity API docs by [pacxiu](https://github.com/pacxiu)
+  - Release date: January 06, 2020
   - Link: https://github.com/27aume/axie-google-monorepo
 <!-- 
 - Title
