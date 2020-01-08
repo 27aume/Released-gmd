@@ -19,6 +19,11 @@ If you feel like I haven't understood something or anything PLEASE let me know.
   - Made using: google services -GAS, coss.io API service. 
   - Release date: Monday 12 November 2018
   - Link: https://github.com/27aume/GAS-coss-api-wrapper
+  
+- Axie infinity Google sheet tools box
+  - Collection of libraries and spreadsheet projects for the axie infinity game.
+  - Made using: google services -GAS, Axie infinity API docs by [pacxiu](https://github.com/pacxiu)
+  - Link: https://github.com/27aume/axie-google-monorepo
 <!-- 
 - Title
   - Description
